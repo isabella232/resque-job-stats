@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'resque', '~> 1.17'
+gem 'resque', '>= 1.27'
